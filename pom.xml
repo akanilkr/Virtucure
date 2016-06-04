@@ -8,6 +8,7 @@
 	<name>spring-session-rest Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
+	
 	<parent>
 		<groupId>com.kony</groupId>
 		<artifactId>KonySuperPOM</artifactId>
